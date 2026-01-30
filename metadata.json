@@ -1,0 +1,7 @@
+{
+  "name": "HSA Master - Ôn Thi ĐGNL VNU",
+  "description": "Ứng dụng ôn tập chuyên sâu cho kỳ thi Đánh giá năng lực (HSA) của ĐHQG Hà Nội, tập trung vào Tư duy định lượng và Khoa học với tính năng điền đáp án thông minh.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
